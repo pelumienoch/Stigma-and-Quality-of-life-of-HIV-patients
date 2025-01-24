@@ -1,0 +1,28 @@
+{
+    "id": "C72D8F88",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1737604413021.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "id": "964eb22f008a4bc9beb23f02854c3293",
+        "name": "score_matrix",
+        "title": "score_matrix",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2300031400352,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1737604413021,
+    "read_only": false,
+    "read_only_alternatives": []
+}
